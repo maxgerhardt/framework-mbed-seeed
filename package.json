@@ -1,0 +1,16 @@
+{
+  "name": "framework-arduino-mbed",
+  "version": "2.6.1",
+  "description": "Arduino framework supporting mbed-enabled boards (Seeedstudio)",
+  "keywords": [
+    "framework",
+    "arduino",
+    "nordic semiconductor",
+    "nrf52"
+  ],
+  "homepage": "https://www.arduino.cc/reference/en",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arduino/ArduinoCore-mbed"
+  }
+}
