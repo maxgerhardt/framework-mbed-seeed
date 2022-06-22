@@ -1,5 +1,5 @@
 {
-  "name": "framework-arduino-mbed",
+  "name": "framework-arduino-mbed-seeed",
   "version": "2.6.1",
   "description": "Arduino framework supporting mbed-enabled boards (Seeedstudio)",
   "keywords": [
