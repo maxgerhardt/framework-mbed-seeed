@@ -1,0 +1,10 @@
+{
+  "commit_hash": "da9aae801f078a17cad056b22b29af8bc43f4ff3",
+  "commit_url": "https://github.com/Seeed-Studio/ArduinoCore-mbed/commit/da9aae801f078a17cad056b22b29af8bc43f4ff3",
+  "boards": [
+    {
+      "board": "Seeeduino:nrf52:xiaonRF52840Sense",
+      "sketches": []
+    }
+  ]
+}
